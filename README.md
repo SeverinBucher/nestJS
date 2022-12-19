@@ -69,5 +69,3 @@ export class MessagesController {
   }
 }
 ```
-
-## Interceptors
